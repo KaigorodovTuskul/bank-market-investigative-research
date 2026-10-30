@@ -1,0 +1,2 @@
+# Zero external dependencies required for core skill
+# Requires Python 3.10+ standard library (urllib, json, re, pathlib, unittest, argparse)

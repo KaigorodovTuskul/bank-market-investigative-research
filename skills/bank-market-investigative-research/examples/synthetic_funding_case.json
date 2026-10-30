@@ -1,0 +1,11 @@
+{
+  "principal_rub": "500000000",
+  "average_balance_rub": "500000000",
+  "days": 90,
+  "day_count": 365,
+  "direct_rate": "0.145",
+  "agent_rate": "0.14",
+  "upfront_fee_rate": "0.001",
+  "other_costs_rub": "100000",
+  "scenario": "synthetic_only_not_market_quote"
+}
